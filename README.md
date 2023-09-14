@@ -16,6 +16,6 @@ Utilize the Model-View-Controller paradigm.<br>
 
 
 ## Android PDF Reader
-<img width="979" alt="截屏2023-09-14 下午4 22 04" src="https://github.com/stvnshan/UIprojects/assets/83726215/dcdf299d-e51e-45a7-a44c-3e555192e87f">
+<img width="563" alt="截屏2023-09-14 下午4 22 45" src="https://github.com/stvnshan/UIprojects/assets/83726215/a899ede6-094e-4aee-873a-adf81ac0aafb">
 
 
